@@ -13343,6 +13343,28 @@
      "java"
     ]
    }
+  },
+  {
+   "cat": "AI",
+   "domain": "an agent building a React + Vite frontend for an ML-backed app queries this for how SkillGreen wires Google and OTP sign-in, resume upload with skill-gap display, and a client for a FastAPI career-readiness prediction API",
+   "lane": "A",
+   "refresh": "pinned",
+   "slug": "skillgreen",
+   "sources": [
+    {
+     "licence_hint": "MIT \u2014 per-repo review block in the manifest",
+     "url": "see hub/skillgreen.json"
+    }
+   ],
+   "status": "live",
+   "tags": {
+    "region": "GLOBAL",
+    "topics": [
+     "react",
+     "fastapi",
+     "career-readiness"
+    ]
+   }
   }
  ],
  "lanes": [

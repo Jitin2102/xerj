@@ -1,3 +1,21 @@
-{"corpus":"skillgreen","cloned_at":"2026-10-20T20:16:47Z","repos":[
-  {"repo":"SkillGreen","url":"https://github.com/Jitin2102/SkillGreen.git","licence":"MIT","sha":"c05b46849e513fb75c8d20c94db644696fcbafe7","files":104,"bytes":2412721}
-]}
+{
+  "corpus": "skillgreen",
+  "cloned_at": "2026-10-20T20:16:47Z",
+  "repos": [
+    {
+      "repo": "SkillGreen",
+      "url": "https://github.com/Jitin2102/SkillGreen.git",
+      "licence": "MIT",
+      "sha": "c05b46849e513fb75c8d20c94db644696fcbafe7",
+      "files": 104,
+      "bytes": 2412721,
+      "review": {
+        "spdx": "MIT",
+        "use": "adapt-with-attribution",
+        "by": "@Jitin2102",
+        "at": "2026-10-21",
+        "note": "confirmed against LICENSE (MIT, (c) 2026 Jitin Kumar)."
+      }
+    }
+  ]
+}
